@@ -1,6 +1,6 @@
 # Project Title
 
-This project will show more involved manipulation of CSS using JS. It will display the use of these principals to achieve something visually appealing for a website.
+A brief description of your project that highlights its purpose and main functionality.
 
 ## Table of Contents
 
