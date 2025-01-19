@@ -37,8 +37,12 @@
   console.log(index)
   // delete the comment with the ID of 823423
 
-  const deleteThis = 823423;
-  const newComments = comments.filter((comment) => comment.id !== deleteThis);
+  // const deleteThis = 823423;
+  // const newComments = comments.filter((comment) => comment.id !== deleteThis);
 
-  console.log(newComments);
+  // console.log(newComments);
+
+  const otherComment = comments.splice(index, 1);
+
+  console.log(comments);
 
